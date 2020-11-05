@@ -11,3 +11,55 @@
 @import "vanilla-framework/scss/build";
 
 // import site specific patterns and overrides
+
+.p-strip {
+  background-color: #044f66;
+  background-image: linear-gradient(
+      to bottom left,
+      #3fc8f2 0%,
+      #3fc8f2 49.3%,
+      rgba(119, 41, 83, 0) 50%,
+      rgba(119, 41, 83, 0) 100%
+    ),
+    linear-gradient(
+      to top right,
+      rgba(255, 255, 255, 0.04) 0,
+      rgba(255, 255, 255, 0.04) 49.9%,
+      transparent 50%
+    ),
+    linear-gradient(
+      to bottom right,
+      rgba(255, 255, 255, 0.04) 0,
+      rgba(255, 255, 255, 0.04) 49.9%,
+      transparent 50%
+    ),
+    linear-gradient(268deg, #044f66 8%, #022935 100%);
+  background-position: top right, bottom left, bottom left;
+  background-repeat: no-repeat;
+  background-size: 16rem 15%, 60% 100%, 25% 100%, 100%;
+  color: $color-x-light;
+  height: 100vh;
+}
+
+.p-card--outline {
+  left: 50%;
+  position: fixed;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.p-button--outline {
+  @extend %vf-button-base;
+
+  border-color: $color-x-light;
+  color: $color-x-light;
+
+  &:visited {
+    color: $color-x-light;
+  }
+
+  &:hover,
+  &:active:hover {
+    background-color: rgba($color-mid-x-light, 0.2);
+  }
+}
