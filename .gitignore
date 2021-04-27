@@ -50,6 +50,7 @@ _site/
 # [env] Local environment settings
 .docker-project
 .*.hash
+.dotrun.json
 .envrc
 .env.local
 env/
