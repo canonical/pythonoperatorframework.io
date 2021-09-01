@@ -14,8 +14,8 @@
     "test-python": "python3 -m unittest discover tests"
   },
   "dependencies": {
-    "autoprefixer": "10.3.1",
-    "concurrently": "6.2.0",
+    "autoprefixer": "10.3.3",
+    "concurrently": "6.2.1",
     "node-sass": "6.0.1",
     "postcss": "8.3.6",
     "postcss-cli": "8.3.1",
@@ -26,7 +26,7 @@
     "stylelint-order": "4.1.0",
     "stylelint-prettier": "1.2.0",
     "stylelint-scss": "3.20.1",
-    "vanilla-framework": "2.33.1",
+    "vanilla-framework": "2.34.0",
     "watch-cli": "0.2.3"
   }
 }
