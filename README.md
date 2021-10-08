@@ -1,7 +1,7 @@
 ![pythonoperatorframework.io](https://user-images.githubusercontent.com/6353928/94026467-9dff1480-fdb1-11ea-8026-e866246815fc.png "The Python Operator Framework")
 # pythonoperatorframework.io
 
-![Github Actions Status](https://github.com/canonical-web-and-design/pythonoperatorframework.io/workflows/master%20checks/badge.svg) [![Code coverage](https://codecov.io/gh/canonical-web-and-design/pythonoperatorframework.io/branch/master/graph/badge.svg)](https://codecov.io/gh/canonical-web-and-design/pythonoperatorframework.io)
+![Github Actions Status](https://github.com/canonical-web-and-design/pythonoperatorframework.io/workflows/main%20checks/badge.svg) [![Code coverage](https://codecov.io/gh/canonical-web-and-design/pythonoperatorframework.io/branch/main/graph/badge.svg)](https://codecov.io/gh/canonical-web-and-design/pythonoperatorframework.io)
 
 The Python Operator Framework provides a simple, lightweight, and powerful way of writing Juju charms, the best way to encapsulate operational experience in code.
 
