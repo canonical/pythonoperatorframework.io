@@ -15,8 +15,8 @@
   },
   "dependencies": {
     "autoprefixer": "10.4.0",
-    "concurrently": "6.4.0",
-    "node-sass": "6.0.1",
+    "concurrently": "7.0.0",
+    "node-sass": "7.0.1",
     "postcss": "8.4.4",
     "postcss-cli": "9.0.2",
     "prettier": "2.5.0",
