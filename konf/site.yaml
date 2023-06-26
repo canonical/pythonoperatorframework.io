@@ -1,6 +1,6 @@
 domain: pythonoperatorframework.io
 
-image: prod-comms.docker-registry.canonical.com/pythonoperatorframework.io
+image: prod-comms.ps5.docker-registry.canonical.com/pythonoperatorframework.io
 
 env:
   - name: SENTRY_DSN
