@@ -15,16 +15,16 @@
   },
   "dependencies": {
     "autoprefixer": "10.4.13",
-    "concurrently": "7.6.0",
+    "concurrently": "10.0.5",
     "postcss": "8.4.31",
-    "postcss-cli": "10.1.0",
-    "prettier": "2.8.1",
+    "postcss-cli": "12.0.0",
+    "prettier": "3.9.6",
     "sass": "1.57.1",
-    "stylelint": "14.16.1",
+    "stylelint": "17.15.0",
     "stylelint-config-prettier": "9.0.4",
-    "stylelint-config-recommended-scss": "8.0.0",
-    "stylelint-order": "5.0.0",
-    "stylelint-prettier": "2.0.0",
+    "stylelint-config-recommended-scss": "17.0.1",
+    "stylelint-order": "8.1.1",
+    "stylelint-prettier": "5.0.3",
     "vanilla-framework": "4.5.0",
     "watch-cli": "0.2.3"
   }
