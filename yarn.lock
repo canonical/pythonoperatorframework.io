@@ -1742,10 +1742,10 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vanilla-framework@4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/vanilla-framework/-/vanilla-framework-4.5.0.tgz#992332239682821094defaae0e8aacd343bf9239"
-  integrity sha512-35q360QpJirosK7403fSQLRPXsdabZ6LdkP2x5bqJBak3rkwmYE34wOqGbm0KggQLXSZimW5ZP2Y+0LohtAF+w==
+vanilla-framework@4.61.0:
+  version "4.61.0"
+  resolved "https://registry.yarnpkg.com/vanilla-framework/-/vanilla-framework-4.61.0.tgz#07e02c851037d6f0c5177a13ae7e681386bda95a"
+  integrity sha512-PvSXeqtUIyP+iSDSSWKezvYlqbPDathZTCb8aE0T5Yj5s55GfAMuTHtSHDSTDZPu1Zz4icl0WEXrgl0mMPu7Ig==
 
 verbalize@^0.1.2:
   version "0.1.2"
